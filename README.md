@@ -1,16 +1,17 @@
-# papoulabank
+# Exam
 
-A new Flutter project.
+- Login
+- Dashboard frame (show/hide ui via gesturedetector)
+- Send money (field only accepts numbers with 2 decimals via regex)
+- Transactions (wip)
 
-## Getting Started
+## Technical
 
-This project is a starting point for a Flutter application.
+To do: Unit testing, fix some bugs on using API calls, ui, routing
 
-A few resources to get you started if this is your first Flutter project:
+## Challenges
+-I have turned over my previous work devices, so everything has been made over an old laptop (lenovo yoga 370), installing software throughout the time and coding done in the weekends
+-Tested only on a vivo android device (android 9) , build not yet available due to laptop limitations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+- clone repository, run through IDE (Android Studio emulator)
